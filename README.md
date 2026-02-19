@@ -100,8 +100,11 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=SanjeyGM&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SanjeyGM&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SanjeyGM&theme=onedark)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SanjeyGM&label=Views&color=yellow&style=plastic" alt="JoelJJoseph" /> </p>
+
+<a href="https://github.com/SanjeyGM">
+     <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=SanjeyGM&bg_color=ffd1e5&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true" alt="Joel's github stats"/>
+    </a>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
