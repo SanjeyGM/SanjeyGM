@@ -18,9 +18,9 @@
   - 🔭 I’m currently working on my Japanese Learning
   - 👯 I’m looking to collaborate on Projects
   - 🌱 I’m currently learning Agentic AI
-  - 📫 How to reach me on LinkedIn:[Linkedin - @Joel John Joseph](https://www.linkedin.com/in/sanjeygm/)
-  - 😄 Pronouns:He/his
-  - ⚡ Fun fact: I have 3 J on my name
+  - 📫 How to reach me on LinkedIn:[@Sanjey GM](https://www.linkedin.com/in/sanjeygm/)
+  - 😄 Pronouns: He/His
+  - ⚡ Fun fact: I don't use Instagram
     
   </tr>   
   </table>
