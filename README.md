@@ -4,8 +4,8 @@
     
 &nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/7aufi1bykug93o9rhj40qksg4)
 
-
-  <p align="middle"> <img src="https://raw.githubusercontent.com/gist/abhirampai/ce94b0b8345cd969d3cf997578487cdd/raw/b2dc51d4421db9d4a5a17be817e07dc8ad1e3375/hello.gif" width="300px"> </p>
+https://tenor.com/view/spotify-gif-14822598417583380288
+  <p align="middle"> <img src="https://tenor.com/view/spotify-gif-14822598417583380288" width="300px"> </p>
 
 
   </td>
