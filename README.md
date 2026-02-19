@@ -1,8 +1,8 @@
+
 <table width="100%"> 
   <tr>
   <td width="50%">
     
-
 
 
   <p align="middle"> <img src="https://raw.githubusercontent.com/gist/abhirampai/ce94b0b8345cd969d3cf997578487cdd/raw/b2dc51d4421db9d4a5a17be817e07dc8ad1e3375/hello.gif" width="300px"> </p>
@@ -15,11 +15,17 @@
 <p align="middle"> <img src="https://user-images.githubusercontent.com/72274851/152816504-1f9f0a08-82c8-41dd-86c6-e1338e337888.gif" width="200px"><h2> I am Sanjey GM! </h2><img src="https://user-images.githubusercontent.com/72274851/152804344-275f01b6-3d85-4a24-94a8-c449e516e52a.gif" width="40px">
 <br/>
 
-# 💫 About Me:
-🔭 I’m currently working on my Japanese Learning<br>👯 I’m looking to collaborate on Projects<br>🌱 I’m currently learning Agentic AI<br>😄 Pronouns: He/His<br>⚡ Fun fact: I don't use Instagram
- 
+
+  - 🔭 I’m currently working on my Japanese Learning
+  - 👯 I’m looking to collaborate on Projects
+  - 🌱 I’m currently learning Agentic AI
+  - 📫 How to reach me on LinkedIn:[@Sanjey GM](https://www.linkedin.com/in/sanjeygm/)
+  - 😄 Pronouns: He/His
+  - ⚡ Fun fact: I don't use Instagram
+    
   </tr>   
   </table>
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/SanjeyGM) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20578358) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sanjeyganesh0@gmail.com) 
