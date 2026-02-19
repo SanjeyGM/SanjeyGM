@@ -104,12 +104,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SanjeyGM&label=Views&color=yellow&style=plastic" alt="SanjeyGM" /> </p>
 
-## Activity
+# GitHub Activity:
 <a href="https://github.com/SanjeyGM">
      <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=SanjeyGM&bg_color=ffd1e5&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true" alt="Joel's github stats"/>
     </a>
 
-### ✍️ Random Dev Quote
+# ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
