@@ -95,13 +95,16 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) 
 
-# 📊 GitHub Stats:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SanjeyGM&label=Views&color=yellow&style=plastic" alt="SanjeyGM" /> </p>
+
+# GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SanjeyGM&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=SanjeyGM&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SanjeyGM&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=SanjeyGM&label=Views&color=yellow&style=plastic" alt="JoelJJoseph" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SanjeyGM&label=Views&color=yellow&style=plastic" alt="SanjeyGM" /> </p>
 
+## Activity
 <a href="https://github.com/SanjeyGM">
      <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=SanjeyGM&bg_color=ffd1e5&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true" alt="Joel's github stats"/>
     </a>
