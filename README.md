@@ -2,7 +2,6 @@
   <tr>
   <td width="50%" align="center">
     
-&nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/7aufi1bykug93o9rhj40qksg4)
 
 
   <p align="middle"> <img src="https://raw.githubusercontent.com/gist/abhirampai/ce94b0b8345cd969d3cf997578487cdd/raw/b2dc51d4421db9d4a5a17be817e07dc8ad1e3375/hello.gif" width="300px"> </p>
@@ -12,14 +11,14 @@
   <td width="50%">
 
 
-<p align="middle"> <img src="https://user-images.githubusercontent.com/72274851/152816504-1f9f0a08-82c8-41dd-86c6-e1338e337888.gif" width="200px"><h2> I am Joel John Joseph! </h2><img src="https://user-images.githubusercontent.com/72274851/152804344-275f01b6-3d85-4a24-94a8-c449e516e52a.gif" width="40px">
+<p align="middle"> <img src="https://user-images.githubusercontent.com/72274851/152816504-1f9f0a08-82c8-41dd-86c6-e1338e337888.gif" width="200px"><h2> I am Sanjey GM! </h2><img src="https://user-images.githubusercontent.com/72274851/152804344-275f01b6-3d85-4a24-94a8-c449e516e52a.gif" width="40px">
 <br/>
 
 
-  - 🔭 I’m currently working on Contribution
+  - 🔭 I’m currently working on my Japanese Learning
   - 👯 I’m looking to collaborate on Projects
-  - 🤔 I’m looking for help with Documentation and tags
-  - 📫 How to reach me on LinkedIn:[Linkedin - @Joel John Joseph](https://www.linkedin.com/in/joel-john-joseph-2b77a41a4/)
+  - 🌱 I’m currently learning Agentic AI
+  - 📫 How to reach me on LinkedIn:[Linkedin - @Joel John Joseph](https://www.linkedin.com/in/sanjeygm/)
   - 😄 Pronouns:He/his
   - ⚡ Fun fact: I have 3 J on my name
     
